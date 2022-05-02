@@ -1,0 +1,15 @@
+.product-preview {
+  padding: 10px;
+  border: 1px solid #333;
+  max-width: 500px;
+  display: inline-flex;
+
+  &-details {
+    width: 300px;
+  }
+
+  img{
+    max-width: 100%!important;
+    max-height: 150px;
+  }
+}
